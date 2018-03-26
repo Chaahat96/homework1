@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+}
+/* property is color, value is blue, selector is h1, delcaration is semi colon*/
+
+p {
+  color: red;
+}
+
+/* property is color, value is red, selector is p, delcaration is semi colon*/
